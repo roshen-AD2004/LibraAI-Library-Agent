@@ -1,0 +1,224 @@
+BOOK ENTRY
+
+Title: Dune
+Author: Frank Herbert
+Genre: Science Fiction
+ISBN: 9780441172719
+Availability: Available
+Summary: Epic science fiction novel set on the desert planet Arrakis, focusing on politics, religion, and survival.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: The Hobbit
+Author: J.R.R. Tolkien
+Genre: Fantasy
+ISBN: 9780547928227
+Availability: Checked Out
+Summary: Bilbo Baggins embarks on an unexpected adventure with dwarves to reclaim a lost kingdom.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: 1984
+Author: George Orwell
+Genre: Dystopian Fiction
+ISBN: 9780451524935
+Availability: Available
+Summary: A chilling depiction of a totalitarian society under constant surveillance.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: Pride and Prejudice
+Author: Jane Austen
+Genre: Romance / Classic Literature
+ISBN: 9780141439518
+Availability: Available
+Summary: A classic novel exploring love, marriage, and social expectations in 19th-century England.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: Atomic Habits
+Author: James Clear
+Genre: Self-Help
+ISBN: 9780735211292
+Availability: Available
+Summary: Practical strategies for building good habits and breaking bad ones.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: Sapiens
+Author: Yuval Noah Harari
+Genre: History
+ISBN: 9780062316097
+Availability: Available
+Summary: Explores the history and evolution of humankind from ancient times to the modern era.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: The Silent Patient
+Author: Alex Michaelides
+Genre: Thriller
+ISBN: 9781250301697
+Availability: Available
+Summary: A psychological thriller about a woman who stops speaking after a shocking crime.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: Educated
+Author: Tara Westover
+Genre: Memoir
+ISBN: 9780399590504
+Availability: Available
+Summary: A memoir about self-discovery through education after growing up in a survivalist family.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: The Da Vinci Code
+Author: Dan Brown
+Genre: Mystery
+ISBN: 9780307474278
+Availability: Checked Out
+Summary: A symbologist uncovers secrets hidden within famous works of art.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: Steve Jobs
+Author: Walter Isaacson
+Genre: Biography
+ISBN: 9781451648539
+Availability: Available
+Summary: The authorized biography of Apple co-founder Steve Jobs.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: The Intelligent Investor
+Author: Benjamin Graham
+Genre: Finance
+ISBN: 9780060555665
+Availability: Available
+Summary: A foundational guide to value investing and long-term financial success.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: Cosmos
+Author: Carl Sagan
+Genre: Science
+ISBN: 9780345539434
+Availability: Available
+Summary: An exploration of the universe, science, and humanity's place within it.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: Born a Crime
+Author: Trevor Noah
+Genre: Humor / Autobiography
+ISBN: 9780399588174
+Availability: Available
+Summary: Trevor Noah's memoir about growing up in apartheid-era South Africa.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: To Kill a Mockingbird
+Author: Harper Lee
+Genre: Historical Fiction
+ISBN: 9780061120084
+Availability: Available
+Summary: A powerful story of racial injustice and moral growth in the American South.
+Source Section: BOOK_ENTRY
+
+--------------------------------------------------
+
+BOOK ENTRY
+
+Title: The Art of War
+Author: Sun Tzu
+Genre: Philosophy / Strategy
+ISBN: 9781599869773
+Availability: Available
+Summary: Ancient military strategies and leadership principles still relevant today.
+Source Section: BOOK_ENTRY
+
+==================================================
+LIBRARY POLICY
+==================================================
+
+Policy Name: Borrowing Rules
+Details:
+- Members may borrow up to 5 books simultaneously.
+- Loan period is 14 days.
+- Reference materials cannot be borrowed.
+Source Section: LIBRARY_POLICY
+
+--------------------------------------------------
+
+Policy Name: Renewal Rules
+Details:
+- Books may be renewed twice.
+- Renewals are not allowed if another member has reserved the book.
+- Renewal requests must be made before the due date.
+Source Section: LIBRARY_POLICY
+
+--------------------------------------------------
+
+Policy Name: Fine Rules
+Details:
+- Overdue books incur a fine of $0.50 per day.
+- Lost books must be replaced or paid for at current market value.
+- Fines exceeding $20 may result in account suspension.
+Source Section: LIBRARY_POLICY
+
+--------------------------------------------------
+
+Policy Name: Reservation Rules
+Details:
+- Members may reserve unavailable books.
+- Reserved books are held for 3 days after notification.
+- Maximum of 3 active reservations per member.
+Source Section: LIBRARY_POLICY
+
+--------------------------------------------------
+
+Policy Name: Membership Rules
+Details:
+- Membership requires valid identification.
+- Membership is valid for one year.
+- Members must keep contact information up to date.
+Source Section: LIBRARY_POLICY
