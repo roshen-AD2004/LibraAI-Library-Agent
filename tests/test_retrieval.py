@@ -15,7 +15,7 @@ def main():
         embedding_function=embeddings
     )
 
-    query = "renewal policy"
+    query = "late fees and fines"
 
     results = vectorstore.similarity_search(
         query=query,

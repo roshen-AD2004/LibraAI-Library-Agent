@@ -1,4 +1,8 @@
-BOOK ENTRY
+# LIBRARY KNOWLEDGE BASE
+
+## BOOKS
+
+### BOOK: Dune
 
 Title: Dune
 Author: Frank Herbert
@@ -8,9 +12,9 @@ Availability: Available
 Summary: Epic science fiction novel set on the desert planet Arrakis, focusing on politics, religion, and survival.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: The Hobbit
 
 Title: The Hobbit
 Author: J.R.R. Tolkien
@@ -20,9 +24,9 @@ Availability: Checked Out
 Summary: Bilbo Baggins embarks on an unexpected adventure with dwarves to reclaim a lost kingdom.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: 1984
 
 Title: 1984
 Author: George Orwell
@@ -32,9 +36,9 @@ Availability: Available
 Summary: A chilling depiction of a totalitarian society under constant surveillance.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: Pride and Prejudice
 
 Title: Pride and Prejudice
 Author: Jane Austen
@@ -44,9 +48,9 @@ Availability: Available
 Summary: A classic novel exploring love, marriage, and social expectations in 19th-century England.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: Atomic Habits
 
 Title: Atomic Habits
 Author: James Clear
@@ -56,9 +60,9 @@ Availability: Available
 Summary: Practical strategies for building good habits and breaking bad ones.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: Sapiens
 
 Title: Sapiens
 Author: Yuval Noah Harari
@@ -68,9 +72,9 @@ Availability: Available
 Summary: Explores the history and evolution of humankind from ancient times to the modern era.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: The Silent Patient
 
 Title: The Silent Patient
 Author: Alex Michaelides
@@ -80,9 +84,9 @@ Availability: Available
 Summary: A psychological thriller about a woman who stops speaking after a shocking crime.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: Educated
 
 Title: Educated
 Author: Tara Westover
@@ -92,9 +96,9 @@ Availability: Available
 Summary: A memoir about self-discovery through education after growing up in a survivalist family.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: The Da Vinci Code
 
 Title: The Da Vinci Code
 Author: Dan Brown
@@ -104,9 +108,9 @@ Availability: Checked Out
 Summary: A symbologist uncovers secrets hidden within famous works of art.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: Steve Jobs
 
 Title: Steve Jobs
 Author: Walter Isaacson
@@ -116,9 +120,9 @@ Availability: Available
 Summary: The authorized biography of Apple co-founder Steve Jobs.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: The Intelligent Investor
 
 Title: The Intelligent Investor
 Author: Benjamin Graham
@@ -128,9 +132,9 @@ Availability: Available
 Summary: A foundational guide to value investing and long-term financial success.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: Cosmos
 
 Title: Cosmos
 Author: Carl Sagan
@@ -140,9 +144,9 @@ Availability: Available
 Summary: An exploration of the universe, science, and humanity's place within it.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: Born a Crime
 
 Title: Born a Crime
 Author: Trevor Noah
@@ -152,9 +156,9 @@ Availability: Available
 Summary: Trevor Noah's memoir about growing up in apartheid-era South Africa.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: To Kill a Mockingbird
 
 Title: To Kill a Mockingbird
 Author: Harper Lee
@@ -164,9 +168,9 @@ Availability: Available
 Summary: A powerful story of racial injustice and moral growth in the American South.
 Source Section: BOOK_ENTRY
 
---------------------------------------------------
+---
 
-BOOK ENTRY
+### BOOK: The Art of War
 
 Title: The Art of War
 Author: Sun Tzu
@@ -176,49 +180,72 @@ Availability: Available
 Summary: Ancient military strategies and leadership principles still relevant today.
 Source Section: BOOK_ENTRY
 
-==================================================
-LIBRARY POLICY
-==================================================
+# LIBRARY POLICIES
+
+## POLICY: Borrowing Rules
 
 Policy Name: Borrowing Rules
+
 Details:
-- Members may borrow up to 5 books simultaneously.
-- Loan period is 14 days.
-- Reference materials cannot be borrowed.
+
+* Members may borrow up to 5 books simultaneously.
+* Loan period is 14 days.
+* Reference materials cannot be borrowed.
+
 Source Section: LIBRARY_POLICY
 
---------------------------------------------------
+---
+
+## POLICY: Renewal Rules
 
 Policy Name: Renewal Rules
+
 Details:
-- Books may be renewed twice.
-- Renewals are not allowed if another member has reserved the book.
-- Renewal requests must be made before the due date.
+
+* Books may be renewed twice.
+* Renewals are not allowed if another member has reserved the book.
+* Renewal requests must be made before the due date.
+
 Source Section: LIBRARY_POLICY
 
---------------------------------------------------
+---
+
+## POLICY: Fine Rules
 
 Policy Name: Fine Rules
+
 Details:
-- Overdue books incur a fine of $0.50 per day.
-- Lost books must be replaced or paid for at current market value.
-- Fines exceeding $20 may result in account suspension.
+
+* Overdue books incur a fine of $0.50 per day.
+* Lost books must be replaced or paid for at current market value.
+* Fines exceeding $20 may result in account suspension.
+
 Source Section: LIBRARY_POLICY
 
---------------------------------------------------
+---
+
+## POLICY: Reservation Rules
 
 Policy Name: Reservation Rules
+
 Details:
-- Members may reserve unavailable books.
-- Reserved books are held for 3 days after notification.
-- Maximum of 3 active reservations per member.
+
+* Members may reserve unavailable books.
+* Reserved books are held for 3 days after notification.
+* Maximum of 3 active reservations per member.
+
 Source Section: LIBRARY_POLICY
 
---------------------------------------------------
+---
+
+## POLICY: Membership Rules
 
 Policy Name: Membership Rules
+
 Details:
-- Membership requires valid identification.
-- Membership is valid for one year.
-- Members must keep contact information up to date.
+
+* Membership requires valid identification.
+* Membership is valid for one year.
+* Members must keep contact information up to date.
+
 Source Section: LIBRARY_POLICY
