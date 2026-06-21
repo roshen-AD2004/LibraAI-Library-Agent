@@ -1,2 +1,4 @@
 venv/
 tests/
+.env
+chroma_db/
