@@ -1,3 +1,5 @@
+from urllib import response
+
 from langchain.tools import tool
 from langchain_chroma import Chroma
 from langchain_community.embeddings import HuggingFaceEmbeddings
@@ -13,7 +15,7 @@ EMBEDDINGS = HuggingFaceEmbeddings(
 
 
 @tool
-def CatalogSearchTool(query: str) -> str:
+def catalog_search(query: str) -> str:
     """
     Search the Aether Library catalog and policy database.
 
@@ -45,13 +47,15 @@ def CatalogSearchTool(query: str) -> str:
         response.append(f"Result {idx}")
         response.append("-" * 50)
         response.append(doc.page_content)
+        response.append("\nSource: aether_catalog.txt")
+        response.append("\nSection: BOOK_ENTRY")
         response.append("")
 
     return "\n".join(response)
 
 
 @tool
-def FineCalculatorTool(
+def fine_calculator(
     days_overdue: int,
     book_type: str,
     membership_tier: str = "standard"
@@ -92,7 +96,7 @@ def FineCalculatorTool(
     )
 
 @tool
-def BorrowActionTool(
+def borrow_action(
     user_id: str,
     book_title_or_isbn: str,
     action_type: str,
@@ -172,3 +176,36 @@ def BorrowActionTool(
         f"Days: {days}\n"
         f"No further action required."
     )
+
+@tool
+def membership_status(user_id: str) -> str:
+    """
+    Check library membership information.
+
+    Use when user asks:
+    - membership status
+    - membership tier
+    - active membership
+    """
+
+    with open(
+        "members.json",
+        "r",
+        encoding="utf-8"
+    ) as f:
+
+        members = json.load(f)
+
+    for member in members:
+
+        if member["user_id"] == user_id:
+
+            return (
+                f"Membership Information\n"
+                f"User ID: {member['user_id']}\n"
+                f"Name: {member['name']}\n"
+                f"Tier: {member['tier']}\n"
+                f"Active: {member['active']}"
+            )
+
+    return "Member not found."
