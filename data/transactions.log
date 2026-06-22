@@ -1,0 +1,21 @@
+{"timestamp":"2026-06-10T08:30:15.123456","user_id":"U1001","action":"borrow","book":"Atomic Habits","due_date":"2026-07-01"}
+{"timestamp":"2026-06-12T09:45:22.654321","user_id":"U1003","action":"borrow","book":"Atomic Habits","due_date":"2026-07-03"}
+{"timestamp":"2026-06-15T10:15:33.987654","user_id":"U1002","action":"borrow","book":"The Hobbit","due_date":"2026-06-15"}
+{"timestamp":"2026-06-17T11:20:44.456789","user_id":"U1006","action":"borrow","book":"To Kill a Mockingbird","due_date":"2026-07-01"}
+{"timestamp":"2026-06-18T14:05:55.789123","user_id":"U1004","action":"borrow","book":"Atomic Habits","due_date":"2026-07-09"}
+{"timestamp":"2026-06-18T16:30:12.321654","user_id":"U1006","action":"reserve","book":"Dune","position":1}
+{"timestamp":"2026-06-19T09:40:23.654987","user_id":"U1005","action":"borrow","book":"The Great Gatsby","due_date":"2026-07-03"}
+{"timestamp":"2026-06-20T08:15:34.123789","user_id":"U1001","action":"borrow","book":"Dune","due_date":"2026-07-04"}
+{"timestamp":"2026-06-21T09:25:45.987321","user_id":"U1002","action":"borrow","book":"Dune","due_date":"2026-06-15"}
+{"timestamp":"2026-06-21T10:30:56.456123","user_id":"U1001","action":"borrow","book":"To Kill a Mockingbird","due_date":"2026-07-05"}
+{"timestamp":"2026-06-22T07:49:44.722275","user_id":"U1001","action":"borrow","book":"Atomic Habits","days":0}
+{"timestamp":"2026-06-22T11:50:07.234567","user_id":"U1003","action":"borrow","book":"Dune","due_date":"2026-07-06"}
+{"timestamp":"2026-06-22T13:15:18.789012","user_id":"U1004","action":"reserve","book":"Dune","position":2}
+{"timestamp":"2026-06-22T14:45:29.345678","user_id":"U1005","action":"reserve","book":"Atomic Habits","position":1}
+{"timestamp":"2026-06-22T15:20:30.901234","user_id":"U1003","action":"reserve","book":"To Kill a Mockingbird","position":1}
+{"timestamp":"2026-06-23T09:00:00.000000","user_id":"U1002","action":"overdue_notice","book":"The Hobbit","days_overdue":8}
+{"timestamp":"2026-06-23T09:05:00.000000","user_id":"U1002","action":"fine_applied","amount":12.50,"reason":"8 days overdue on The Hobbit"}
+{"timestamp":"2026-06-24T12:00:00.000000","user_id":"U1002","action":"dispute","issue":"I returned the book already"}
+{"timestamp":"2026-06-24T12:30:00.000000","user_id":"U1005","action":"notify_available","book":"Atomic Habits","position":1}
+{"timestamp":"2026-06-25T08:15:00.000000","user_id":"U1007","action":"reserve","book":"Dune","position":3}
+{"timestamp":"2026-06-26T09:00:00.000000","action":"acquisition","book":"The Da Vinci Code","isbn":"9780307474278","copies_added":2,"source":"purchase"}

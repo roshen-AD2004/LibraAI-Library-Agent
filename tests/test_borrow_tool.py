@@ -1,13 +1,11 @@
-from tools import BorrowActionTool
+from tools import borrow_action
 
-tool = BorrowActionTool()
-
-result = tool.invoke(
-    {
-        "user_id": "1001",
-        "book_title_or_isbn": "Dune",
-        "action_type": "borrow"
-    }
+print(
+    borrow_action.invoke(
+        {
+            "user_id": "U1001",
+            "book_title_or_isbn": "Atomic Habits",
+            "action_type": "borrow"
+        }
+    )
 )
-
-print(result)

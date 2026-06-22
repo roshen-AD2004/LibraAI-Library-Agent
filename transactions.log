@@ -1,0 +1,15 @@
+{"timestamp": "2026-06-10T08:30:15.123456", "user_id": "U1001", "book": "Atomic Habits", "action": "borrow", "due_date": "2026-07-01"}
+{"timestamp": "2026-06-12T09:45:22.654321", "user_id": "U1003", "book": "Atomic Habits", "action": "borrow", "due_date": "2026-07-03"}
+{"timestamp": "2026-06-15T10:15:33.987654", "user_id": "U1002", "book": "The Hobbit", "action": "borrow", "due_date": "2026-06-29"}
+{"timestamp": "2026-06-17T11:20:44.456789", "user_id": "U1006", "book": "To Kill a Mockingbird", "action": "borrow", "due_date": "2026-07-01"}
+{"timestamp": "2026-06-18T14:05:55.789123", "user_id": "U1004", "book": "Atomic Habits", "action": "borrow", "due_date": "2026-07-09"}
+{"timestamp": "2026-06-18T16:30:12.321654", "user_id": "U1006", "book": "Dune", "action": "reserve", "position": 1}
+{"timestamp": "2026-06-19T09:40:23.654987", "user_id": "U1005", "book": "The Great Gatsby", "action": "borrow", "due_date": "2026-07-03"}
+{"timestamp": "2026-06-20T08:15:34.123789", "user_id": "U1001", "book": "Dune", "action": "borrow", "due_date": "2026-07-04"}
+{"timestamp": "2026-06-21T09:25:45.987321", "user_id": "U1002", "book": "Dune", "action": "borrow", "due_date": "2026-07-05"}
+{"timestamp": "2026-06-21T10:30:56.456123", "user_id": "U1001", "book": "To Kill a Mockingbird", "action": "borrow", "due_date": "2026-07-05"}
+{"timestamp": "2026-06-22T07:49:44.722275", "user_id": "U1001", "book": "Atomic Habits", "action": "borrow", "days": 0}
+{"timestamp": "2026-06-22T11:50:07.234567", "user_id": "U1003", "book": "Dune", "action": "borrow", "due_date": "2026-07-06"}
+{"timestamp": "2026-06-22T13:15:18.789012", "user_id": "U1004", "book": "Dune", "action": "reserve", "position": 2}
+{"timestamp": "2026-06-22T14:45:29.345678", "user_id": "U1005", "book": "Atomic Habits", "action": "reserve", "position": 1}
+{"timestamp": "2026-06-22T15:20:30.901234", "user_id": "U1003", "book": "To Kill a Mockingbird", "action": "reserve", "position": 1}

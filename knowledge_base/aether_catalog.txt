@@ -1,15 +1,26 @@
 # LIBRARY KNOWLEDGE BASE
 
+NOTE: This catalog is static metadata only. It contains book descriptions, author information, and library policies.
+Current availability, borrower status, reservation queues, and copy counts are not maintained here.
+Those are stored dynamically in `data/books.json` and updated through library operations.
+
 ## BOOKS
 
 ### BOOK: Dune
 
 Title: Dune
+
 Author: Frank Herbert
+
 Genre: Science Fiction
+
 ISBN: 9780441172719
-Availability: Available
-Summary: Epic science fiction novel set on the desert planet Arrakis, focusing on politics, religion, and survival.
+
+Borrow Period: 14 Days
+
+Summary:
+Epic science fiction novel set on the desert planet Arrakis, focusing on politics, religion, and survival.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -17,11 +28,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: The Hobbit
 
 Title: The Hobbit
+
 Author: J.R.R. Tolkien
+
 Genre: Fantasy
+
 ISBN: 9780547928227
-Availability: Checked Out
-Summary: Bilbo Baggins embarks on an unexpected adventure with dwarves to reclaim a lost kingdom.
+
+Borrow Period: 14 Days
+
+Summary:
+Bilbo Baggins embarks on an unexpected adventure with dwarves to reclaim a lost kingdom.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -29,11 +47,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: 1984
 
 Title: 1984
+
 Author: George Orwell
+
 Genre: Dystopian Fiction
+
 ISBN: 9780451524935
-Availability: Available
-Summary: A chilling depiction of a totalitarian society under constant surveillance.
+
+Borrow Period: 14 Days
+
+Summary:
+A chilling depiction of a totalitarian society under constant surveillance.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -41,11 +66,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: Pride and Prejudice
 
 Title: Pride and Prejudice
+
 Author: Jane Austen
+
 Genre: Romance / Classic Literature
+
 ISBN: 9780141439518
-Availability: Available
-Summary: A classic novel exploring love, marriage, and social expectations in 19th-century England.
+
+Borrow Period: 14 Days
+
+Summary:
+A classic novel exploring love, marriage, and social expectations in 19th-century England.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -53,11 +85,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: Atomic Habits
 
 Title: Atomic Habits
+
 Author: James Clear
+
 Genre: Self-Help
+
 ISBN: 9780735211292
-Availability: Available
-Summary: Practical strategies for building good habits and breaking bad ones.
+
+Borrow Period: 21 Days
+
+Summary:
+Practical strategies for building good habits and breaking bad ones.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -65,11 +104,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: Sapiens
 
 Title: Sapiens
+
 Author: Yuval Noah Harari
+
 Genre: History
+
 ISBN: 9780062316097
-Availability: Available
-Summary: Explores the history and evolution of humankind from ancient times to the modern era.
+
+Borrow Period: 21 Days
+
+Summary:
+Explores the history and evolution of humankind from ancient times to the modern era.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -77,11 +123,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: The Silent Patient
 
 Title: The Silent Patient
+
 Author: Alex Michaelides
+
 Genre: Thriller
+
 ISBN: 9781250301697
-Availability: Available
-Summary: A psychological thriller about a woman who stops speaking after a shocking crime.
+
+Borrow Period: 14 Days
+
+Summary:
+A psychological thriller about a woman who stops speaking after a shocking crime.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -89,11 +142,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: Educated
 
 Title: Educated
+
 Author: Tara Westover
+
 Genre: Memoir
+
 ISBN: 9780399590504
-Availability: Available
-Summary: A memoir about self-discovery through education after growing up in a survivalist family.
+
+Borrow Period: 21 Days
+
+Summary:
+A memoir about self-discovery through education after growing up in a survivalist family.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -101,11 +161,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: The Da Vinci Code
 
 Title: The Da Vinci Code
+
 Author: Dan Brown
+
 Genre: Mystery
+
 ISBN: 9780307474278
-Availability: Checked Out
-Summary: A symbologist uncovers secrets hidden within famous works of art.
+
+Borrow Period: 14 Days
+
+Summary:
+A symbologist uncovers secrets hidden within famous works of art.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -113,11 +180,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: Steve Jobs
 
 Title: Steve Jobs
+
 Author: Walter Isaacson
+
 Genre: Biography
+
 ISBN: 9781451648539
-Availability: Available
-Summary: The authorized biography of Apple co-founder Steve Jobs.
+
+Borrow Period: 21 Days
+
+Summary:
+The authorized biography of Apple co-founder Steve Jobs.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -125,11 +199,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: The Intelligent Investor
 
 Title: The Intelligent Investor
+
 Author: Benjamin Graham
+
 Genre: Finance
+
 ISBN: 9780060555665
-Availability: Available
-Summary: A foundational guide to value investing and long-term financial success.
+
+Borrow Period: 21 Days
+
+Summary:
+A foundational guide to value investing and long-term financial success.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -137,11 +218,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: Cosmos
 
 Title: Cosmos
+
 Author: Carl Sagan
+
 Genre: Science
+
 ISBN: 9780345539434
-Availability: Available
-Summary: An exploration of the universe, science, and humanity's place within it.
+
+Borrow Period: 21 Days
+
+Summary:
+An exploration of the universe, science, and humanity's place within it.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -149,11 +237,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: Born a Crime
 
 Title: Born a Crime
+
 Author: Trevor Noah
+
 Genre: Humor / Autobiography
+
 ISBN: 9780399588174
-Availability: Available
-Summary: Trevor Noah's memoir about growing up in apartheid-era South Africa.
+
+Borrow Period: 21 Days
+
+Summary:
+Trevor Noah's memoir about growing up in apartheid-era South Africa.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -161,11 +256,18 @@ Source Section: BOOK_ENTRY
 ### BOOK: To Kill a Mockingbird
 
 Title: To Kill a Mockingbird
+
 Author: Harper Lee
+
 Genre: Historical Fiction
+
 ISBN: 9780061120084
-Availability: Available
-Summary: A powerful story of racial injustice and moral growth in the American South.
+
+Borrow Period: 14 Days
+
+Summary:
+A powerful story of racial injustice and moral growth in the American South.
+
 Source Section: BOOK_ENTRY
 
 ---
@@ -173,30 +275,95 @@ Source Section: BOOK_ENTRY
 ### BOOK: The Art of War
 
 Title: The Art of War
+
 Author: Sun Tzu
+
 Genre: Philosophy / Strategy
+
 ISBN: 9781599869773
-Availability: Available
-Summary: Ancient military strategies and leadership principles still relevant today.
+
+Borrow Period: 21 Days
+
+Summary:
+Ancient military strategies and leadership principles still relevant today.
+
 Source Section: BOOK_ENTRY
 
-# LIBRARY POLICIES
+---
 
-## POLICY: Borrowing Rules
+### BOOK: The Great Gatsby
+
+Title: The Great Gatsby
+
+Author: F. Scott Fitzgerald
+
+Genre: Classic Fiction
+
+ISBN: 9780743273565
+
+Borrow Period: 14 Days
+
+Summary:
+A tale of wealth, love, and the American Dream in the Jazz Age.
+
+Source Section: BOOK_ENTRY
+
+---
+
+## GENRES
+
+**Science Fiction:**
+- Dune, Foundation series, Neuromancer
+- Explores futuristic worlds and advanced technology
+
+**Fantasy:**
+- The Hobbit, The Lord of the Rings, Game of Thrones
+- Adventures in magical realms
+
+**Dystopian Fiction:**
+- 1984, The Handmaid's Tale, Brave New World
+- Cautionary tales of oppressive futures
+
+**Classic Fiction:**
+- Pride and Prejudice, The Great Gatsby, To Kill a Mockingbird
+- Timeless works of literary merit
+
+**Self-Help:**
+- Atomic Habits, The 7 Habits, How to Win Friends
+- Personal development and success strategies
+
+**Thriller / Mystery:**
+- The Silent Patient, The Da Vinci Code, Gone Girl
+- Suspenseful narratives with twists
+
+**Biography / Memoir:**
+- Steve Jobs, Born a Crime, Educated
+- True stories of individuals' lives
+
+**History / Philosophy:**
+- Sapiens, The Art of War, Cosmos
+- Understanding humanity and the world
+
+---
+
+## LIBRARY POLICIES
+
+### POLICY: Borrowing Rules
 
 Policy Name: Borrowing Rules
 
 Details:
 
 * Members may borrow up to 5 books simultaneously.
-* Loan period is 14 days.
+* Standard loan period is 14 days.
+* Some books may allow a 21-day loan period.
 * Reference materials cannot be borrowed.
 
 Source Section: LIBRARY_POLICY
 
 ---
 
-## POLICY: Renewal Rules
+### POLICY: Renewal Rules
 
 Policy Name: Renewal Rules
 
@@ -210,21 +377,23 @@ Source Section: LIBRARY_POLICY
 
 ---
 
-## POLICY: Fine Rules
+### POLICY: Fine Rules
 
 Policy Name: Fine Rules
 
 Details:
 
-* Overdue books incur a fine of $0.50 per day.
-* Lost books must be replaced or paid for at current market value.
-* Fines exceeding $20 may result in account suspension.
+* Regular Books: $0.50 per overdue day.
+* New Releases: $2.00 per overdue day.
+* Premium Members receive a 50% fine discount.
+* Lost books must be replaced or paid for at market value.
+* Fines above $20 may result in account suspension.
 
 Source Section: LIBRARY_POLICY
 
 ---
 
-## POLICY: Reservation Rules
+### POLICY: Reservation Rules
 
 Policy Name: Reservation Rules
 
@@ -232,13 +401,14 @@ Details:
 
 * Members may reserve unavailable books.
 * Reserved books are held for 3 days after notification.
-* Maximum of 3 active reservations per member.
+* Maximum 3 active reservations per member.
+* Reservations are processed in queue order.
 
 Source Section: LIBRARY_POLICY
 
 ---
 
-## POLICY: Membership Rules
+### POLICY: Membership Rules
 
 Policy Name: Membership Rules
 
@@ -246,6 +416,81 @@ Details:
 
 * Membership requires valid identification.
 * Membership is valid for one year.
-* Members must keep contact information up to date.
+* Members must keep contact information updated.
+* Membership tiers include Standard and Premium.
 
 Source Section: LIBRARY_POLICY
+
+---
+
+### TIER: Standard Membership
+
+Tier Name: Standard Membership
+
+Details:
+
+* Borrow up to 5 books
+* 14-day loan period (21 days for selected titles)
+* 2 active reservations allowed
+* Standard fine rates apply
+* Email notifications for due dates
+
+Source Section: MEMBERSHIP_TIER
+
+---
+
+### TIER: Premium Membership
+
+Tier Name: Premium Membership
+
+Details:
+
+* Borrow up to 10 books
+* Extended loan periods (21 days standard)
+* 5 active reservations allowed
+* 50% discount on all fines
+* Priority access to new releases
+* Unlimited renewals
+* Priority customer support
+* Exclusive member events
+
+Source Section: MEMBERSHIP_TIER
+
+---
+
+### POLICY: Account Suspension
+
+Policy Name: Account Suspension
+
+Details:
+
+* Accounts are suspended if fines exceed $20.
+* Accounts may be suspended for non-return of materials.
+* Suspension prevents all borrowing privileges.
+* Contact library staff to reinstate account.
+
+Source Section: LIBRARY_POLICY
+
+---
+
+## OPERATIONAL SCENARIOS
+
+These scenarios are intentionally included in the knowledge base to provide the agent with realistic examples of how the library operates and how staff should respond. Use them for context when answering operational questions.
+
+Scenario: Mixed Availability
+- Dune: Some copies are available while others are checked out; reservation queue exists.
+- Atomic Habits: All copies currently checked out; reservation queue exists; users may request notification when available.
+
+Scenario: Overdue & Fines
+- A member who returns a book late will receive an overdue notice and a fine according to the Fine Rules. Premium members receive a 50% discount.
+
+Scenario: Disputes & Escalation
+- If a member disputes a fine or reports returning a book, the agent should record the dispute in the transaction log and advise the member to contact library staff for escalation.
+
+Scenario: Renewals & Restrictions
+- Renewals are allowed unless another member has reserved the book. Renewals may be limited by membership tier.
+
+Scenario: Reservation Notifications
+- When a reserved book becomes available, the system notifies the next member in the queue and holds the book for 3 days.
+
+Source Section: OPERATIONAL_SCENARIOS

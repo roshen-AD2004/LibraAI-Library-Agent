@@ -1,0 +1,158 @@
+[
+  {
+    "title": "Dune",
+    "isbn": "9780441172719",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "total_copies": 5,
+    "available_copies": 3,
+    "borrow_period_days": 14,
+    "borrowers": [
+      {
+        "user_id": "U1001",
+        "borrow_date": "2026-06-20",
+        "due_date": "2026-07-04"
+      },
+      {
+        "user_id": "U1002",
+        "borrow_date": "2026-06-01",
+        "due_date": "2026-06-15"
+      }
+    ],
+    "reservation_queue": [
+      "U1004",
+      "U1005",
+      "U1007"
+    ]
+  },
+  {
+    "title": "The Hobbit",
+    "isbn": "9780547928227",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "total_copies": 4,
+    "available_copies": 0,
+    "borrow_period_days": 14,
+    "borrowers": [
+      {
+        "user_id": "U1002",
+        "borrow_date": "2026-06-15",
+        "due_date": "2026-06-15"
+      }
+    ],
+    "reservation_queue": [
+      "U1008",
+      "U1009"
+    ]
+  },
+  {
+    "title": "1984",
+    "isbn": "9780451524935",
+    "author": "George Orwell",
+    "genre": "Dystopian Fiction",
+    "total_copies": 6,
+    "available_copies": 6,
+    "borrow_period_days": 14,
+    "borrowers": [],
+    "reservation_queue": []
+  },
+  {
+    "title": "Atomic Habits",
+    "isbn": "9780735211292",
+    "author": "James Clear",
+    "genre": "Self-Help",
+    "total_copies": 3,
+    "available_copies": 0,
+    "borrow_period_days": 21,
+    "borrowers": [
+      {
+        "user_id": "U1001",
+        "borrow_date": "2026-06-10",
+        "due_date": "2026-07-01"
+      },
+      {
+        "user_id": "U1003",
+        "borrow_date": "2026-06-12",
+        "due_date": "2026-07-03"
+      },
+      {
+        "user_id": "U1004",
+        "borrow_date": "2026-06-18",
+        "due_date": "2026-07-09"
+      }
+    ],
+    "reservation_queue": [
+      "U1005",
+      "U1006"
+    ]
+  },
+  {
+    "title": "The Great Gatsby",
+    "isbn": "9780743273565",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic Fiction",
+    "total_copies": 5,
+    "available_copies": 4,
+    "borrow_period_days": 14,
+    "borrowers": [
+      {
+        "user_id": "U1005",
+        "borrow_date": "2026-06-19",
+        "due_date": "2026-07-03"
+      }
+    ],
+    "reservation_queue": []
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "isbn": "9780061120084",
+    "author": "Harper Lee",
+    "genre": "Classic Fiction",
+    "total_copies": 4,
+    "available_copies": 2,
+    "borrow_period_days": 14,
+    "borrowers": [
+      {
+        "user_id": "U1006",
+        "borrow_date": "2026-06-17",
+        "due_date": "2026-07-01"
+      },
+      {
+        "user_id": "U1001",
+        "borrow_date": "2026-06-21",
+        "due_date": "2026-07-05"
+      }
+    ],
+    "reservation_queue": [
+      "U1003"
+    ]
+  },
+  {
+    "title": "The Da Vinci Code",
+    "isbn": "9780307474278",
+    "author": "Dan Brown",
+    "genre": "Mystery",
+    "total_copies": 2,
+    "available_copies": 0,
+    "borrow_period_days": 14,
+    "borrowers": [
+      {
+        "user_id": "U1007",
+        "borrow_date": "2026-06-22",
+        "due_date": "2026-07-06"
+      }
+    ],
+    "reservation_queue": []
+  },
+  {
+    "title": "Foundation",
+    "isbn": "9780553293357",
+    "author": "Isaac Asimov",
+    "genre": "Science Fiction",
+    "total_copies": 3,
+    "available_copies": 3,
+    "borrow_period_days": 14,
+    "borrowers": [],
+    "reservation_queue": []
+  }
+]
